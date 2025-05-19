@@ -40,8 +40,8 @@ project_root/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/ahsaansattar/sehatbot_flutter_app.git
-   cd sehatbot_flutter_app
+   git clone https://github.com/iamahsaansattar/sehatbot-health-llm-flutter-app.git
+   cd sehatbot-health-llm-flutter-app
 
 2. **Run the LLM API locally**
     ```bash

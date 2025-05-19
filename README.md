@@ -20,19 +20,7 @@ SehatBot is a mobile application built with Flutter that uses a locally hosted L
 
 ## 📦 Project Structure
 
-project_root/
-│
-├── lib/ # Flutter source code
-│ ├── main.dart
-│ └── screens/
-│
-├── backend/ # Python backend for LLM
-│ └── app.py
-│
-├── models/ # LLM model files
-├── README.md
-└── pubspec.yaml
-
+<pre lang="markdown"><code>```bash project_root/ │ ├── lib/ # Flutter source code │ ├── main.dart │ └── screens/ │ ├── backend/ # Python backend for LLM │ └── app.py │ ├── models/ # LLM model files │ ├── README.md └── pubspec.yaml ```</code></pre>
 
 ## 📲 Getting Started
 
@@ -68,4 +56,3 @@ This project is licensed under the MIT License.
 Ahsaan S.
 📧 ahsaansattar@gmail.com
 🌐 GitHub: @iamahsaansattar
-
